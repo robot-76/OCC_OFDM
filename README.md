@@ -28,6 +28,12 @@ pip install pyserial
 
 All serial ports must match between the Arduino and Python scripts.
 
+# Figure
+![Figure 1: System Architecture](/figure/Zero-padding_avdvantages.png)
+![Figure 1: System Architecture](images/figure1.png)
+![Figure 1: System Architecture](images/figure1.png)
+![Figure 1: System Architecture](images/figure1.png)
+/figure/Zero-padding_avdvantages.png
 
 ## 📄 Related Paper
 
