@@ -29,11 +29,11 @@ pip install pyserial
 All serial ports must match between the Arduino and Python scripts.
 
 # Figure
-![Figure 1: System Architecture](/figure/Zero-padding_avdvantages.png)
-![Figure 1: System Architecture](images/figure1.png)
-![Figure 1: System Architecture](images/figure1.png)
-![Figure 1: System Architecture](images/figure1.png)
-/figure/Zero-padding_avdvantages.png
+![Figure 1: System Architecture](/OCC_Implementation/figure/OCC_architecture.png)
+![Figure 2: OCC Implementation setup](/OCC_Implementation/figure/OCC_Implementation_setup.png)
+![Figure 3: Advantages of Zerro padding](/OCC_Implementation/figure/Zero-padding_avdvantages.png)
+![Figure 4: Visualization of the OCC data decoding](/OCC_Implementation/figure/Visualization_OCC_data_decoding.png)
+
 
 ## 📄 Related Paper
 
