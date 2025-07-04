@@ -43,13 +43,14 @@ All serial ports must match between the Arduino and Python scripts.
 
 **Cite This Paper:** 
 **Bib Tex** 
-@article{rahman2025real, 
-  title={Real-time implementation of OFDM modulation for an OCC system: UNet-based equalizer for signal denoising and BER optimization}, 
-  author={Rahman, Md Minhazur and Nazim, Md Shahriar and Joha, Md Ibne and Jang, Yeong Min}, 
-  journal={ICT Express}, 
-  year={2025}, 
-  publisher={Elsevier} 
-} 
+@article{rahman2025real,
+  title={Real-time implementation of OFDM modulation for an OCC system: UNet-based equalizer for signal denoising and BER optimization},
+  author={Rahman, Md Minhazur and Nazim, Md Shahriar and Joha, Md Ibne and Jang, Yeong Min},
+  journal={ICT Express},
+  year={2025},
+  publisher={Elsevier}
+}
+
 
 
  
