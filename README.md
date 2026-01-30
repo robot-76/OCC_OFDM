@@ -2,6 +2,14 @@
 
 # 🚀 Execution Steps
 
+# Required installation
+OpenCV
+numpy
+pypylon
+pyserial
+reedsoslo
+tensorflow (python version 3.9-3.11)
+
 # Upload the Arduino Code
 Open  "...\real time 128\tx_Arduino_8pilot.ino" in the Arduino IDE.
 Select the correct board and port (e.g. Arduino Uno, COM3).
@@ -9,10 +17,10 @@ Upload the code to your Arduino.
 
 ⚠️ Note: The selected port must match the one used in the Python script.
 
-# Run the Python Transmitter
+# Run the Python Transmitter and Receiver code
 
 Make sure tx_8pilot_128.py uses the same serial port as the Arduino (check in the code: serial.Serial(port=...)).
-This Python file transmits messages through LED.
+This Python file transmits messages through the LED.
 
 Run the script:
 python  "...\real time 128\tx_8pilot_128.py"
