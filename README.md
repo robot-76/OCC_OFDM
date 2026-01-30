@@ -1,6 +1,6 @@
 # OCC_OFDM
 
-# 🚀 Execution Steps
+# Execution Steps
 
 # Required installation
 run in terminal: python -m pip install -r requirements.txt
@@ -10,7 +10,7 @@ Open  "...\real time 128\tx_Arduino_8pilot.ino" in the Arduino IDE.
 Select the correct board and port (e.g. Arduino Uno, COM3).
 Upload the code to your Arduino.
 
-⚠️ Note: The selected port must match the one used in the Python script.
+Note: The selected port must match the one used in the Python script.
 
 # Run the Python Transmitter and Receiver code
 
@@ -24,7 +24,7 @@ Run the Python Receiver (Decoder)
 Run the main decoding script:
 python "...\real time 128\main_rx_add_text_window.py"
 
-# 📌 Notes
+# Notes
 # Ensure pyserial is installed(we used Basler camera setup as shown in the paper given below)
 
 pip install pyserial
@@ -38,7 +38,7 @@ All serial ports must match between the Arduino and Python scripts.
 ![Figure 4: Visualization of the OCC data decoding](/OCC_Implementation/figure/Visualization_OCC_data_decoding.png)
 
 
-## 📄 Related Paper
+## Related Paper
 
 **Title:**
 Real-time implementation of OFDM modulation for an OCC system: UNet-based equalizer for signal denoising and BER optimization  
