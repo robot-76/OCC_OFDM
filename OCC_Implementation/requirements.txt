@@ -1,0 +1,14 @@
+ # === Core numerical & vision ===
+numpy
+opencv-python
+Pillow
+
+# === Communication & coding ===
+pyserial
+reedsolo
+
+# === Camera SDK binding (Basler pylon SDK must be installed separately) ===
+pypylon
+
+# === AI / Deep Learning (Python 3.9–3.11 only) ===
+tensorflow>=2.10,<2.16
