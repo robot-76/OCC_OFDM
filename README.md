@@ -3,12 +3,7 @@
 # 🚀 Execution Steps
 
 # Required installation
-OpenCV
-numpy
-pypylon
-pyserial
-reedsoslo
-tensorflow (python version 3.9-3.11)
+run in terminal: python -m pip install -r requirements.txt
 
 # Upload the Arduino Code
 Open  "...\real time 128\tx_Arduino_8pilot.ino" in the Arduino IDE.
