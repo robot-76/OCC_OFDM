@@ -50,7 +50,7 @@ ICT Express(IF: 4.2), Elsevier 2025
 [https://doi.org/10.1016/j.icte.2025.06.002](https://doi.org/10.1016/j.icte.2025.06.002)
 
 
-### 📚 Cite This Paper (BibTeX)
+### Cite This Paper (BibTeX)
 
 ```bibtex
 @article{rahman2025real,
