@@ -3,9 +3,9 @@
 # 🚀 Execution Steps
 
 # Required installation
-OpenCV\\
+OpenCV
 numpy
-pypylon\\
+pypylon
 pyserial
 reedsoslo
 tensorflow (python version 3.9-3.11)
